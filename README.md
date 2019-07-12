@@ -14,7 +14,7 @@ First Blog
 
 → [GitHub](https://www.github.com)
 
-→ [Note](https://note.youdao.com)
+→ [Note](https://note.youdao.com/web)
 
 
 ### Other
