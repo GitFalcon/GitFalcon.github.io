@@ -12,7 +12,7 @@ First Blog
 
 → [Bing](https://www.bing.com)
 
-→ [GitHub](https://www.github.com)
+→ [GitHub](https://www.github.com/login)
 
 → [Note](https://note.youdao.com/web)
 
