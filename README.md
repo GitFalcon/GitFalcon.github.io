@@ -1,9 +1,22 @@
-# HuxBlog Boilerplate
+# Falcon Studio
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+[Falcon Studio](https://gitfalcon.github.io) is a field for future technology.
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+## Technology Blog
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+First Blog
+
+
+## Quick Links
+
+→ [Bing](https://www.bing.com)
+
+→ [GitHub](https://www.github.com)
+
+→ [Note](https://note.youdao.com)
+
+
+### Other
+
+[CloudBookmark](https://gitfalcon.github.io/CloudBookmark)
