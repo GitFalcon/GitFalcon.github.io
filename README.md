@@ -10,11 +10,11 @@ First Blog
 
 ## Quick Links
 
-¡ú [Bing](https://www.bing.com)
+â†’ [Bing](https://www.bing.com)
 
-¡ú [GitHub](https://www.github.com)
+â†’ [GitHub](https://www.github.com)
 
-¡ú [Note](https://note.youdao.com)
+â†’ [Note](https://note.youdao.com)
 
 
 ### Other
